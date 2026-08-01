@@ -1,2 +1,4 @@
-# java-servlet-stub-97
+# Java Servlet Stub 97
+
 Simple HTTP printing class in Java.
+
